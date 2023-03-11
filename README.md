@@ -1,4 +1,4 @@
-# ft_level1_tugas21
+# chatty application
 
 A new Flutter project.
 
