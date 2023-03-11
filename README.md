@@ -1,6 +1,6 @@
 # chatty application
 
-A new Flutter project.
+Hasil tampilan => chatty_homepage.png dan chatty_messagepage.png
 
 ## Getting Started
 
